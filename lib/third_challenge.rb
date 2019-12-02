@@ -20,7 +20,7 @@ def third_challenge
         {
           :name => "Mercutio",
           :age => "18",
-          :attitude =>,
+          :attitude => "hot-headed",
         }
       ]
    }, 
@@ -36,7 +36,15 @@ def third_challenge
         age: "15",
         status: "alive"},
       :heroine_friends => [
-        ]
+        {:name => "Steven"
+         :age => "30"
+         :attitude => "confused"
+        },
+        {:name => "Nurse"
+         :age => "44"
+         :attitude => "worried"
+        }
+     ]
    }
   }
 
